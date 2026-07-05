@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .achievement-notification__outer-container {
-  background: url(achievement.png);
+  background: url(background.png);
   background-position: top;
   background-size: cover;
   color: #000000;
